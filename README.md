@@ -1,3 +1,6 @@
+In order to unify the approaches followed for Bitnami containers and Bitnami Helm charts, we are moving the different `bitnami/bitnami-docker-<container>` repositories to a single monorepo `bitnami/containers`. Please follow [bitnami/containers](https://github.com/bitnami/containers) to keep you updated about the latest Bitnami images.
+
+More information here: https://blog.bitnami.com/2022/07/new-source-of-truth-bitnami-containers.html
 # TensorFlow for Intel packaged by Bitnami
 
 ## What is TensorFlow for Intel?
